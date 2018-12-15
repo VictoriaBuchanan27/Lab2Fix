@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(164, 53, 140)(253, 95, 95);
+    background-image: linear-gradient(rgb(222, 26, 65), #060102 40%);
+    color: pink;
+  }
+  
+  .title-background {
+    background-color: transparent;
+  }
+  
+  .song-name {
+    font-size: 0.9rem;
+  }
+  
+  .song-artists {
+    font-size: 0.75rem;
+    color: rgba(225, 33, 33, 0.817);
+  }
+  
+  
+  .row:hover {
+    background-color: rgb(220, 34, 34);
+  }
+  
+  .input-box {
+    margin-bottom: 60px;
+  }
+ 
