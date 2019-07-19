@@ -4,7 +4,7 @@ Using HTML and Javascript this application was used to hold the top songs in the
 ## Features 
 - When user begins to type something into the input field, filter the playlist to include only the songs that contain the characters user typed and display in the playlist those songs ONLY. 
 
-- When user clears the input field, show all the songs again
+- When user clears the input field, show all the songs again.
 
-##Image 
+#Image 
 ![picture](spotifyimage.png)
