@@ -6,5 +6,4 @@ Using HTML and Javascript this application was used to hold the top songs in the
 
 - When user clears the input field, show all the songs again.
 
-#Image 
 ![picture](spotifyimage.png)
